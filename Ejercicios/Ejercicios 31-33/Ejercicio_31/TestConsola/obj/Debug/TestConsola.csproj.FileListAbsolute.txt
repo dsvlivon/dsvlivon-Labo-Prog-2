@@ -1,0 +1,10 @@
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicios 31-33\Ejercicio_31\TestConsola\bin\Debug\TestConsola.exe.config
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicios 31-33\Ejercicio_31\TestConsola\bin\Debug\TestConsola.exe
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicios 31-33\Ejercicio_31\TestConsola\bin\Debug\TestConsola.pdb
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicios 31-33\Ejercicio_31\TestConsola\bin\Debug\AtencionAlCliente.dll
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicios 31-33\Ejercicio_31\TestConsola\bin\Debug\AtencionAlCliente.pdb
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicios 31-33\Ejercicio_31\TestConsola\obj\Debug\TestConsola.csprojAssemblyReference.cache
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicios 31-33\Ejercicio_31\TestConsola\obj\Debug\TestConsola.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicios 31-33\Ejercicio_31\TestConsola\obj\Debug\TestConsola.csproj.CopyComplete
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicios 31-33\Ejercicio_31\TestConsola\obj\Debug\TestConsola.exe
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicios 31-33\Ejercicio_31\TestConsola\obj\Debug\TestConsola.pdb

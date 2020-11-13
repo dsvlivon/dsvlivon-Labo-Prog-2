@@ -1,0 +1,6 @@
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Practica Polimorfismo\bin\Debug\Practica Polimorfismo.dll
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Practica Polimorfismo\bin\Debug\Practica Polimorfismo.pdb
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Practica Polimorfismo\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Practica Polimorfismo\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Practica Polimorfismo\obj\Debug\Practica Polimorfismo.dll
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Practica Polimorfismo\obj\Debug\Practica Polimorfismo.pdb

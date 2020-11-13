@@ -1,0 +1,15 @@
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicios 38-40\Ejercicio_40\CentralTelefonica\obj\Debug\CentralTelefonica.csprojAssemblyReference.cache
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicios 38-40\Ejercicio_40\CentralTelefonica\obj\Debug\CentralTelefonica.FrmLlamador.resources
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicios 38-40\Ejercicio_40\CentralTelefonica\obj\Debug\CentralTelefonica.FrmMenu.resources
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicios 38-40\Ejercicio_40\CentralTelefonica\obj\Debug\CentralTelefonica.FrmMostrar.resources
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicios 38-40\Ejercicio_40\CentralTelefonica\obj\Debug\CentralTelefonica.Properties.Resources.resources
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicios 38-40\Ejercicio_40\CentralTelefonica\obj\Debug\CentralTelefonica.csproj.GenerateResource.cache
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicios 38-40\Ejercicio_40\CentralTelefonica\obj\Debug\CentralTelefonica.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicios 38-40\Ejercicio_40\CentralTelefonica\bin\Debug\CentralTelefonica.exe.config
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicios 38-40\Ejercicio_40\CentralTelefonica\bin\Debug\CentralTelefonica.exe
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicios 38-40\Ejercicio_40\CentralTelefonica\bin\Debug\CentralTelefonica.pdb
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicios 38-40\Ejercicio_40\CentralTelefonica\bin\Debug\Entidades.dll
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicios 38-40\Ejercicio_40\CentralTelefonica\bin\Debug\Entidades.pdb
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicios 38-40\Ejercicio_40\CentralTelefonica\obj\Debug\CentralTelefonica.csproj.CopyComplete
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicios 38-40\Ejercicio_40\CentralTelefonica\obj\Debug\CentralTelefonica.exe
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicios 38-40\Ejercicio_40\CentralTelefonica\obj\Debug\CentralTelefonica.pdb

@@ -1,0 +1,7 @@
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Practica Parcial\cosas varias\ClassLibrary1\consola\bin\Debug\consola.exe.config
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Practica Parcial\cosas varias\ClassLibrary1\consola\bin\Debug\consola.exe
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Practica Parcial\cosas varias\ClassLibrary1\consola\bin\Debug\consola.pdb
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Practica Parcial\cosas varias\ClassLibrary1\consola\obj\Debug\consola.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Practica Parcial\cosas varias\ClassLibrary1\consola\obj\Debug\consola.exe
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Practica Parcial\cosas varias\ClassLibrary1\consola\obj\Debug\consola.pdb
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Practica Parcial\cosas varias\ClassLibrary1\consola\obj\Debug\consola.csprojAssemblyReference.cache

@@ -1,0 +1,22 @@
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios1\Ejercicio 12\bin\Debug\Ejercicio 12.exe.config
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios1\Ejercicio 12\bin\Debug\Ejercicio 12.exe
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios1\Ejercicio 12\bin\Debug\Ejercicio 12.pdb
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios1\Ejercicio 12\bin\Debug\Validacion.dll
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios1\Ejercicio 12\bin\Debug\Validacion.pdb
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios1\Ejercicio 12\bin\Debug\Validacion.dll.config
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios1\Ejercicio 12\obj\Debug\Ejercicio 12.csprojAssemblyReference.cache
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios1\Ejercicio 12\obj\Debug\Ejercicio 12.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios1\Ejercicio 12\obj\Debug\Ejercicio 12.csproj.CopyComplete
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios1\Ejercicio 12\obj\Debug\Ejercicio 12.exe
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios1\Ejercicio 12\obj\Debug\Ejercicio 12.pdb
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Labo-prog-2\Ejercicios1\Ejercicio 12\bin\Debug\Ejercicio_12.exe.config
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Labo-prog-2\Ejercicios1\Ejercicio 12\bin\Debug\Ejercicio_12.exe
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Labo-prog-2\Ejercicios1\Ejercicio 12\bin\Debug\Ejercicio_12.pdb
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Labo-prog-2\Ejercicios1\Ejercicio 12\bin\Debug\Validacion.dll
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Labo-prog-2\Ejercicios1\Ejercicio 12\bin\Debug\Validacion.pdb
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Labo-prog-2\Ejercicios1\Ejercicio 12\bin\Debug\Validacion.dll.config
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Labo-prog-2\Ejercicios1\Ejercicio 12\obj\Debug\Ejercicio 12.csprojAssemblyReference.cache
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Labo-prog-2\Ejercicios1\Ejercicio 12\obj\Debug\Ejercicio 12.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Labo-prog-2\Ejercicios1\Ejercicio 12\obj\Debug\Ejercicio 12.csproj.CopyComplete
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Labo-prog-2\Ejercicios1\Ejercicio 12\obj\Debug\Ejercicio_12.exe
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Labo-prog-2\Ejercicios1\Ejercicio 12\obj\Debug\Ejercicio_12.pdb

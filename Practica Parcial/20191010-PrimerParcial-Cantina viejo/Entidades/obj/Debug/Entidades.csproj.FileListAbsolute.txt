@@ -1,0 +1,10 @@
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Practica Parcial\20191010-PrimerParcial-Barra\Entidades\bin\Debug\Entidades.dll
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Practica Parcial\20191010-PrimerParcial-Barra\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Practica Parcial\20191010-PrimerParcial-Barra\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Practica Parcial\20191010-PrimerParcial-Barra\Entidades\obj\Debug\Entidades.dll
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Practica Parcial\20191010-PrimerParcial-Barra\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Daniel\Downloads\20191010-PrimerParcial-alumno\Entidades\bin\Debug\Entidades.dll
+C:\Users\Daniel\Downloads\20191010-PrimerParcial-alumno\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Daniel\Downloads\20191010-PrimerParcial-alumno\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Downloads\20191010-PrimerParcial-alumno\Entidades\obj\Debug\Entidades.dll
+C:\Users\Daniel\Downloads\20191010-PrimerParcial-alumno\Entidades\obj\Debug\Entidades.pdb

@@ -1,0 +1,6 @@
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Practica Parcial\2020 - PrimerParcial - Daniel Vizgarra\Vizgarra.Daniel.2C\Entidades\bin\Debug\Entidades.dll
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Practica Parcial\2020 - PrimerParcial - Daniel Vizgarra\Vizgarra.Daniel.2C\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Practica Parcial\2020 - PrimerParcial - Daniel Vizgarra\Vizgarra.Daniel.2C\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Practica Parcial\2020 - PrimerParcial - Daniel Vizgarra\Vizgarra.Daniel.2C\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Practica Parcial\2020 - PrimerParcial - Daniel Vizgarra\Vizgarra.Daniel.2C\Entidades\obj\Debug\Entidades.dll
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Practica Parcial\2020 - PrimerParcial - Daniel Vizgarra\Vizgarra.Daniel.2C\Entidades\obj\Debug\Entidades.pdb

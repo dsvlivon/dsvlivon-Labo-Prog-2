@@ -1,0 +1,6 @@
+domainUpDown.domainUpDownItemCollectio collection = this.domainUpDown1.Items;
+collection.Add("enero");
+collection.Add("febrero");
+collection.Add("marzo");
+
+https://www.youtube.com/watch?v=y0XGw70tJ1Q&ab_channel=winforms

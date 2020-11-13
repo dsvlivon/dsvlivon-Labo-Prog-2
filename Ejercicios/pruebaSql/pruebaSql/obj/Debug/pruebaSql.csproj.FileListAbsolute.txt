@@ -1,0 +1,10 @@
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\pruebaSql\pruebaSql\bin\Debug\pruebaSql.exe.config
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\pruebaSql\pruebaSql\bin\Debug\pruebaSql.exe
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\pruebaSql\pruebaSql\bin\Debug\pruebaSql.pdb
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\pruebaSql\pruebaSql\obj\Debug\pruebaSql.csprojAssemblyReference.cache
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\pruebaSql\pruebaSql\obj\Debug\pruebaSql.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\pruebaSql\pruebaSql\obj\Debug\pruebaSql.exe
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\pruebaSql\pruebaSql\obj\Debug\pruebaSql.pdb
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\pruebaSql\pruebaSql\bin\Debug\Entidades.dll
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\pruebaSql\pruebaSql\bin\Debug\Entidades.pdb
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\pruebaSql\pruebaSql\obj\Debug\pruebaSql.csproj.CopyComplete

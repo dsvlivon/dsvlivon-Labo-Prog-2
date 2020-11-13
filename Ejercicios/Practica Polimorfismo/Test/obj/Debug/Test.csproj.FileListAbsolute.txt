@@ -1,0 +1,10 @@
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Practica Polimorfismo\Test\bin\Debug\Test.exe.config
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Practica Polimorfismo\Test\bin\Debug\Test.exe
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Practica Polimorfismo\Test\bin\Debug\Test.pdb
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Practica Polimorfismo\Test\bin\Debug\Practica Polimorfismo.dll
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Practica Polimorfismo\Test\bin\Debug\Practica Polimorfismo.pdb
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Practica Polimorfismo\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Practica Polimorfismo\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Practica Polimorfismo\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Practica Polimorfismo\Test\obj\Debug\Test.exe
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Practica Polimorfismo\Test\obj\Debug\Test.pdb

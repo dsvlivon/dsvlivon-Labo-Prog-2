@@ -1,0 +1,7 @@
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Labo-prog-2\Ejercicios1\Ejercicio_9\bin\Debug\Ejercicio_9.exe.config
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Labo-prog-2\Ejercicios1\Ejercicio_9\bin\Debug\Ejercicio_9.exe
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Labo-prog-2\Ejercicios1\Ejercicio_9\bin\Debug\Ejercicio_9.pdb
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Labo-prog-2\Ejercicios1\Ejercicio_9\obj\Debug\Ejercicio_9.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Labo-prog-2\Ejercicios1\Ejercicio_9\obj\Debug\Ejercicio_9.exe
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Labo-prog-2\Ejercicios1\Ejercicio_9\obj\Debug\Ejercicio_9.pdb
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Labo-prog-2\Ejercicios1\Ejercicio_9\obj\Debug\Ejercicio_9.csprojAssemblyReference.cache

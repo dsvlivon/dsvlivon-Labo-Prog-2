@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pruebaSql", "pruebaSql\pruebaSql.csproj", "{EBCAD7EA-C650-4899-81F7-A6FAF2125442}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Entidades.csproj", "{B8EE0D2A-BFEB-4BD3-8B3D-5DDAC6DD5B00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBCAD7EA-C650-4899-81F7-A6FAF2125442}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBCAD7EA-C650-4899-81F7-A6FAF2125442}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBCAD7EA-C650-4899-81F7-A6FAF2125442}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBCAD7EA-C650-4899-81F7-A6FAF2125442}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8EE0D2A-BFEB-4BD3-8B3D-5DDAC6DD5B00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8EE0D2A-BFEB-4BD3-8B3D-5DDAC6DD5B00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8EE0D2A-BFEB-4BD3-8B3D-5DDAC6DD5B00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8EE0D2A-BFEB-4BD3-8B3D-5DDAC6DD5B00}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6131D7BC-4E66-4213-864C-83FD1A18ACCB}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicios 23-25\Ejercicio_23\ConversorMoneda\bin\Debug\ConversorMoneda.exe.config
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicios 23-25\Ejercicio_23\ConversorMoneda\bin\Debug\ConversorMoneda.exe
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicios 23-25\Ejercicio_23\ConversorMoneda\bin\Debug\ConversorMoneda.pdb
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicios 23-25\Ejercicio_23\ConversorMoneda\bin\Debug\Monedas.dll
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicios 23-25\Ejercicio_23\ConversorMoneda\bin\Debug\Monedas.pdb
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicios 23-25\Ejercicio_23\ConversorMoneda\obj\Debug\ConversorMoneda.csprojAssemblyReference.cache
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicios 23-25\Ejercicio_23\ConversorMoneda\obj\Debug\ConversorMoneda.Form1.resources
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicios 23-25\Ejercicio_23\ConversorMoneda\obj\Debug\ConversorMoneda.Properties.Resources.resources
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicios 23-25\Ejercicio_23\ConversorMoneda\obj\Debug\ConversorMoneda.csproj.GenerateResource.cache
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicios 23-25\Ejercicio_23\ConversorMoneda\obj\Debug\ConversorMoneda.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicios 23-25\Ejercicio_23\ConversorMoneda\obj\Debug\ConversorMoneda.csproj.CopyComplete
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicios 23-25\Ejercicio_23\ConversorMoneda\obj\Debug\ConversorMoneda.exe
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicios 23-25\Ejercicio_23\ConversorMoneda\obj\Debug\ConversorMoneda.pdb

@@ -1,0 +1,42 @@
+SELECT * FROM Alumnos WHERE apellido = 'ramires'
+SELECT * FROM Alumnos WHERE apellido like 'ram%' --q comience x 'ram'
+SELECT * FROM Alumnos WHERE apellido like '%r' -- q empiece x r
+SELECT * FROM Alumnos WHERE apellido not like = 'ramires'
+SELECT * FROM Alumnos WHERE legajo between 1313 and 13413
+SELECT TOP 10 * FROM Alumnos WHERE legajo between 1313 and 13413
+SELECT * FROM Alumnos WHERE apellido in ('Araos','rios')
+SELECT legajo * FROM Alumnos WHERE apellido in ('Araos','rios')-- para traer solo los legajos
+order by curso DES, apellido ASC
+
+
+DELETE FROM Alumnos WHERE legajo = 13413
+SELECT FROM Alumnos WHERE legajo in (SELECT legajo FROM Alumnos where apellido in ('Araos','Rios'))
+
+INSERT INT Alumnos(legajos, nombre,apellido,curso)
+VALUES(2,'juan','araos',1)(3,'pepe','rios',4)(4,'nico','peres',9)
+
+UPDATE Alumnos SET curso =1 WHERE nombre = 'juan' 
+
+UPDATE Alumnos SET curso =2 WHERE legajo in (SELECT legajo from alumnos where legajo <10)
+
+SELECT GETDATE() --para obtener fechas
+
+
+SELECT * FROM Alumnos where legajo = (selecto min(legajo) from Alumnos)
+
+SELECT distinct AVG(curso) from Alumnos
+SELECT curso, nombre from Alumnos GROUP BY curso, nombre HAVING nombre like 'a%' -- nombres empezados en 'a'
+
+
+Mezclar tablas
+si yo quiero unir 2 tablas (es horrible)
+SELECT * FROM Alumnos, Cursos WHERE id=1
+es mejor...
+SELECT legajo, Alumnos.nombre, C.nombre * FROM Alumnos INNER JOING Cursos ON Alumnos.curso = Cursos.id
+
+SELECET A.legajo, A.Nombre, A.apellido, C.nombre P.nombre, P.apellid FROM Alumnos A INNER JOIN Cursos C ON A.curso = C.id - INNER JOIN Profesores P on C.profesor = P.legajo
+
+
+
+
+

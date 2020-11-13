@@ -1,0 +1,7 @@
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios1\Validacion\bin\Debug\Validacion.dll.config
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios1\Validacion\bin\Debug\Validacion.dll
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios1\Validacion\bin\Debug\Validacion.pdb
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios1\Validacion\obj\Debug\Validacion.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios1\Validacion\obj\Debug\Validacion.dll
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios1\Validacion\obj\Debug\Validacion.pdb
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios1\Validacion\obj\Debug\Validacion.csprojAssemblyReference.cache

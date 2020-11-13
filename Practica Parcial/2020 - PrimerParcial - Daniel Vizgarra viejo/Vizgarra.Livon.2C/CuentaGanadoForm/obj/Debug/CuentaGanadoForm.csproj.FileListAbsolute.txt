@@ -1,0 +1,15 @@
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Practica Parcial\2020 - PrimerParcial - Daniel Vizgarra\Vizgarra.Livon.2C\CuentaGanadoForm\bin\Debug\CuentaGanadoForm.exe.config
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Practica Parcial\2020 - PrimerParcial - Daniel Vizgarra\Vizgarra.Livon.2C\CuentaGanadoForm\bin\Debug\CuentaGanadoForm.exe
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Practica Parcial\2020 - PrimerParcial - Daniel Vizgarra\Vizgarra.Livon.2C\CuentaGanadoForm\bin\Debug\CuentaGanadoForm.pdb
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Practica Parcial\2020 - PrimerParcial - Daniel Vizgarra\Vizgarra.Livon.2C\CuentaGanadoForm\bin\Debug\Entidades.dll
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Practica Parcial\2020 - PrimerParcial - Daniel Vizgarra\Vizgarra.Livon.2C\CuentaGanadoForm\bin\Debug\Entidades.pdb
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Practica Parcial\2020 - PrimerParcial - Daniel Vizgarra\Vizgarra.Livon.2C\CuentaGanadoForm\obj\Debug\CuentaGanadoForm.csprojAssemblyReference.cache
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Practica Parcial\2020 - PrimerParcial - Daniel Vizgarra\Vizgarra.Livon.2C\CuentaGanadoForm\obj\Debug\CuentaGanadoForm.CuentaGanadoForm.resources
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Practica Parcial\2020 - PrimerParcial - Daniel Vizgarra\Vizgarra.Livon.2C\CuentaGanadoForm\obj\Debug\CuentaGanadoForm.FrmDatos.resources
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Practica Parcial\2020 - PrimerParcial - Daniel Vizgarra\Vizgarra.Livon.2C\CuentaGanadoForm\obj\Debug\CuentaGanadoForm.FrmInforme.resources
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Practica Parcial\2020 - PrimerParcial - Daniel Vizgarra\Vizgarra.Livon.2C\CuentaGanadoForm\obj\Debug\CuentaGanadoForm.Properties.Resources.resources
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Practica Parcial\2020 - PrimerParcial - Daniel Vizgarra\Vizgarra.Livon.2C\CuentaGanadoForm\obj\Debug\CuentaGanadoForm.csproj.GenerateResource.cache
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Practica Parcial\2020 - PrimerParcial - Daniel Vizgarra\Vizgarra.Livon.2C\CuentaGanadoForm\obj\Debug\CuentaGanadoForm.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Practica Parcial\2020 - PrimerParcial - Daniel Vizgarra\Vizgarra.Livon.2C\CuentaGanadoForm\obj\Debug\CuentaGanadoForm.csproj.CopyComplete
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Practica Parcial\2020 - PrimerParcial - Daniel Vizgarra\Vizgarra.Livon.2C\CuentaGanadoForm\obj\Debug\CuentaGanadoForm.exe
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Practica Parcial\2020 - PrimerParcial - Daniel Vizgarra\Vizgarra.Livon.2C\CuentaGanadoForm\obj\Debug\CuentaGanadoForm.pdb

@@ -1,0 +1,10 @@
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicio_63\HoraActualizada\bin\Debug\HoraActualizada.exe.config
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicio_63\HoraActualizada\bin\Debug\HoraActualizada.exe
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicio_63\HoraActualizada\bin\Debug\HoraActualizada.pdb
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicio_63\HoraActualizada\obj\Debug\HoraActualizada.csprojAssemblyReference.cache
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicio_63\HoraActualizada\obj\Debug\HoraActualizada.Form1.resources
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicio_63\HoraActualizada\obj\Debug\HoraActualizada.Properties.Resources.resources
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicio_63\HoraActualizada\obj\Debug\HoraActualizada.csproj.GenerateResource.cache
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicio_63\HoraActualizada\obj\Debug\HoraActualizada.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicio_63\HoraActualizada\obj\Debug\HoraActualizada.exe
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicio_63\HoraActualizada\obj\Debug\HoraActualizada.pdb

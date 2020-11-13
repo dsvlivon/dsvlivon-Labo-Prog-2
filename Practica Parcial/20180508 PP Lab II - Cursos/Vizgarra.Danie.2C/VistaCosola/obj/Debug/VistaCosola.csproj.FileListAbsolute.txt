@@ -1,0 +1,13 @@
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Practica Parcial\20180508 PP Lab II - Cursos\Vizgarra.Danie.2C\VistaCosola\bin\Debug\VistaCosola.exe.config
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Practica Parcial\20180508 PP Lab II - Cursos\Vizgarra.Danie.2C\VistaCosola\bin\Debug\VistaCosola.exe
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Practica Parcial\20180508 PP Lab II - Cursos\Vizgarra.Danie.2C\VistaCosola\bin\Debug\VistaCosola.pdb
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Practica Parcial\20180508 PP Lab II - Cursos\Vizgarra.Danie.2C\VistaCosola\bin\Debug\Entidades.dll
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Practica Parcial\20180508 PP Lab II - Cursos\Vizgarra.Danie.2C\VistaCosola\bin\Debug\VistaForm.exe
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Practica Parcial\20180508 PP Lab II - Cursos\Vizgarra.Danie.2C\VistaCosola\bin\Debug\Entidades.pdb
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Practica Parcial\20180508 PP Lab II - Cursos\Vizgarra.Danie.2C\VistaCosola\bin\Debug\VistaForm.pdb
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Practica Parcial\20180508 PP Lab II - Cursos\Vizgarra.Danie.2C\VistaCosola\bin\Debug\VistaForm.exe.config
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Practica Parcial\20180508 PP Lab II - Cursos\Vizgarra.Danie.2C\VistaCosola\obj\Debug\VistaCosola.csprojAssemblyReference.cache
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Practica Parcial\20180508 PP Lab II - Cursos\Vizgarra.Danie.2C\VistaCosola\obj\Debug\VistaCosola.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Practica Parcial\20180508 PP Lab II - Cursos\Vizgarra.Danie.2C\VistaCosola\obj\Debug\VistaCosola.csproj.CopyComplete
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Practica Parcial\20180508 PP Lab II - Cursos\Vizgarra.Danie.2C\VistaCosola\obj\Debug\VistaCosola.exe
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Practica Parcial\20180508 PP Lab II - Cursos\Vizgarra.Danie.2C\VistaCosola\obj\Debug\VistaCosola.pdb

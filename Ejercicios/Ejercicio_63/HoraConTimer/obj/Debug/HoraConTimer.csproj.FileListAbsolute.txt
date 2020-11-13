@@ -1,0 +1,10 @@
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicio_63\HoraConTimer\bin\Debug\HoraConTimer.exe.config
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicio_63\HoraConTimer\bin\Debug\HoraConTimer.exe
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicio_63\HoraConTimer\bin\Debug\HoraConTimer.pdb
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicio_63\HoraConTimer\obj\Debug\HoraConTimer.csprojAssemblyReference.cache
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicio_63\HoraConTimer\obj\Debug\HoraConTimer.Form1.resources
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicio_63\HoraConTimer\obj\Debug\HoraConTimer.Properties.Resources.resources
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicio_63\HoraConTimer\obj\Debug\HoraConTimer.csproj.GenerateResource.cache
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicio_63\HoraConTimer\obj\Debug\HoraConTimer.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicio_63\HoraConTimer\obj\Debug\HoraConTimer.exe
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicio_63\HoraConTimer\obj\Debug\HoraConTimer.pdb

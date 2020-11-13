@@ -1,0 +1,10 @@
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicios 34-37\Ejercicio_37\CentralTelefonica\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicios 34-37\Ejercicio_37\CentralTelefonica\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicios 34-37\Ejercicio_37\CentralTelefonica\Test\bin\Debug\Test.exe.config
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicios 34-37\Ejercicio_37\CentralTelefonica\Test\bin\Debug\Test.exe
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicios 34-37\Ejercicio_37\CentralTelefonica\Test\bin\Debug\Test.pdb
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicios 34-37\Ejercicio_37\CentralTelefonica\Test\bin\Debug\CentralitaHerencia.dll
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicios 34-37\Ejercicio_37\CentralTelefonica\Test\bin\Debug\CentralitaHerencia.pdb
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicios 34-37\Ejercicio_37\CentralTelefonica\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicios 34-37\Ejercicio_37\CentralTelefonica\Test\obj\Debug\Test.exe
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicios 34-37\Ejercicio_37\CentralTelefonica\Test\obj\Debug\Test.pdb

@@ -1,0 +1,6 @@
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicios 31-33\Ejercicio_31\AtencionAlCliente\bin\Debug\AtencionAlCliente.dll
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicios 31-33\Ejercicio_31\AtencionAlCliente\bin\Debug\AtencionAlCliente.pdb
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicios 31-33\Ejercicio_31\AtencionAlCliente\obj\Debug\AtencionAlCliente.csprojAssemblyReference.cache
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicios 31-33\Ejercicio_31\AtencionAlCliente\obj\Debug\AtencionAlCliente.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicios 31-33\Ejercicio_31\AtencionAlCliente\obj\Debug\AtencionAlCliente.dll
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicios 31-33\Ejercicio_31\AtencionAlCliente\obj\Debug\AtencionAlCliente.pdb

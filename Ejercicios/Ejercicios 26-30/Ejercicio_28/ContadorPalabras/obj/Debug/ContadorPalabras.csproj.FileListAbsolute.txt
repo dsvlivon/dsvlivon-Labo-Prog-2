@@ -1,0 +1,10 @@
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicios 26-30\Ejercicio_28\ContadorPalabras\bin\Debug\ContadorPalabras.exe.config
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicios 26-30\Ejercicio_28\ContadorPalabras\bin\Debug\ContadorPalabras.exe
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicios 26-30\Ejercicio_28\ContadorPalabras\bin\Debug\ContadorPalabras.pdb
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicios 26-30\Ejercicio_28\ContadorPalabras\obj\Debug\ContadorPalabras.csprojAssemblyReference.cache
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicios 26-30\Ejercicio_28\ContadorPalabras\obj\Debug\ContadorPalabras.Form1.resources
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicios 26-30\Ejercicio_28\ContadorPalabras\obj\Debug\ContadorPalabras.Properties.Resources.resources
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicios 26-30\Ejercicio_28\ContadorPalabras\obj\Debug\ContadorPalabras.csproj.GenerateResource.cache
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicios 26-30\Ejercicio_28\ContadorPalabras\obj\Debug\ContadorPalabras.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicios 26-30\Ejercicio_28\ContadorPalabras\obj\Debug\ContadorPalabras.exe
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicios 26-30\Ejercicio_28\ContadorPalabras\obj\Debug\ContadorPalabras.pdb

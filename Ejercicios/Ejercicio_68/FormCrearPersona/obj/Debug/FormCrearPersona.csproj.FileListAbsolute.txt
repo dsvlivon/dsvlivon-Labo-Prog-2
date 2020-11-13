@@ -1,0 +1,10 @@
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicio_68\FormCrearPersona\obj\Debug\FormCrearPersona.csprojAssemblyReference.cache
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicio_68\FormCrearPersona\obj\Debug\FormCrearPersona.FormPersona.resources
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicio_68\FormCrearPersona\obj\Debug\FormCrearPersona.Properties.Resources.resources
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicio_68\FormCrearPersona\obj\Debug\FormCrearPersona.csproj.GenerateResource.cache
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicio_68\FormCrearPersona\obj\Debug\FormCrearPersona.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicio_68\FormCrearPersona\bin\Debug\FormCrearPersona.exe.config
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicio_68\FormCrearPersona\bin\Debug\FormCrearPersona.exe
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicio_68\FormCrearPersona\bin\Debug\FormCrearPersona.pdb
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicio_68\FormCrearPersona\obj\Debug\FormCrearPersona.exe
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicio_68\FormCrearPersona\obj\Debug\FormCrearPersona.pdb

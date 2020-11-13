@@ -1,0 +1,32 @@
+las intefaces no puede def miem estat. 
+no puede tener modif. d acces d distinto tipo
+SOBRE INTERFACES
+
+
+HILOS O THREADS
+
+El main es un hilo, el hilo principal
+son una secuencia d tareas, una detras de otra
+
+Mas hilos, mas tareas en paralelo
+
+En conjunto los hilos(uno o mas)+los recursos q comparten un hilo se les llama PROCESO
+El q resuelve como ejecuta los hilos es el Sist. op. no el id, no el programa
+
+
+threadstart es un tipo delegado q va x defecto cuando abro un thread. Lo usa para apuntar al metodo q quiero ejecutar
+puedo declararlo tacita o explicitamente
+
+la clase thread tiene 4 const 
+
+usamos 2, ambos usan delegados.
+
+
+SI USO un metodo de instancia, basicamente previo tuve q haber declarado ese objeto
+entonces el delegado tiene la capacidad d encapcular ese objeto
+asi q no hace falta hacer un "Thread t = new Thread(miObjeto.MiMetodo());"
+
+LOS DELEGADOS TIENEN SEGURIDAD DE TIPO
+
+ejemplo c controles de form
+la firma callback la tenemos q crear nos

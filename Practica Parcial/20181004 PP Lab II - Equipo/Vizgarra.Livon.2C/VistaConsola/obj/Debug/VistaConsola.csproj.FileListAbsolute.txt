@@ -1,0 +1,10 @@
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Practica Parcial\20181004 PP Lab II - Equipo\Vizgarra.Livon.2C\VistaConsola\obj\Debug\VistaConsola.csprojAssemblyReference.cache
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Practica Parcial\20181004 PP Lab II - Equipo\Vizgarra.Livon.2C\VistaConsola\obj\Debug\VistaConsola.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Practica Parcial\20181004 PP Lab II - Equipo\Vizgarra.Livon.2C\VistaConsola\bin\Debug\VistaConsola.exe.config
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Practica Parcial\20181004 PP Lab II - Equipo\Vizgarra.Livon.2C\VistaConsola\bin\Debug\VistaConsola.exe
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Practica Parcial\20181004 PP Lab II - Equipo\Vizgarra.Livon.2C\VistaConsola\bin\Debug\VistaConsola.pdb
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Practica Parcial\20181004 PP Lab II - Equipo\Vizgarra.Livon.2C\VistaConsola\bin\Debug\Entidades.dll
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Practica Parcial\20181004 PP Lab II - Equipo\Vizgarra.Livon.2C\VistaConsola\bin\Debug\Entidades.pdb
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Practica Parcial\20181004 PP Lab II - Equipo\Vizgarra.Livon.2C\VistaConsola\obj\Debug\VistaConsola.csproj.CopyComplete
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Practica Parcial\20181004 PP Lab II - Equipo\Vizgarra.Livon.2C\VistaConsola\obj\Debug\VistaConsola.exe
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Practica Parcial\20181004 PP Lab II - Equipo\Vizgarra.Livon.2C\VistaConsola\obj\Debug\VistaConsola.pdb

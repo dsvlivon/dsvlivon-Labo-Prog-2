@@ -1,0 +1,6 @@
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicios 23-25\Ejercicio_23\Monedas\bin\Debug\Monedas.dll
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicios 23-25\Ejercicio_23\Monedas\bin\Debug\Monedas.pdb
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicios 23-25\Ejercicio_23\Monedas\obj\Debug\Monedas.csprojAssemblyReference.cache
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicios 23-25\Ejercicio_23\Monedas\obj\Debug\Monedas.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicios 23-25\Ejercicio_23\Monedas\obj\Debug\Monedas.dll
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicios 23-25\Ejercicio_23\Monedas\obj\Debug\Monedas.pdb

@@ -1,0 +1,10 @@
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Practica Parcial\2017 - PrimerParcial-veterinaria\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Practica Parcial\2017 - PrimerParcial-veterinaria\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Practica Parcial\2017 - PrimerParcial-veterinaria\Test\bin\Debug\Test.exe.config
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Practica Parcial\2017 - PrimerParcial-veterinaria\Test\bin\Debug\Test.exe
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Practica Parcial\2017 - PrimerParcial-veterinaria\Test\bin\Debug\Test.pdb
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Practica Parcial\2017 - PrimerParcial-veterinaria\Test\bin\Debug\Entidades.dll
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Practica Parcial\2017 - PrimerParcial-veterinaria\Test\bin\Debug\Entidades.pdb
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Practica Parcial\2017 - PrimerParcial-veterinaria\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Practica Parcial\2017 - PrimerParcial-veterinaria\Test\obj\Debug\Test.exe
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Practica Parcial\2017 - PrimerParcial-veterinaria\Test\obj\Debug\Test.pdb

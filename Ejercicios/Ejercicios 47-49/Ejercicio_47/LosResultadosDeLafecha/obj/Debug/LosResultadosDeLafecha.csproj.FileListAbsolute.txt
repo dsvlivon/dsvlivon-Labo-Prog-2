@@ -1,0 +1,10 @@
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicio_47\LosResultadosDeLafecha\bin\Debug\LosResultadosDeLafecha.exe.config
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicio_47\LosResultadosDeLafecha\bin\Debug\LosResultadosDeLafecha.exe
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicio_47\LosResultadosDeLafecha\bin\Debug\LosResultadosDeLafecha.pdb
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicio_47\LosResultadosDeLafecha\bin\Debug\Ejercicio_47.dll
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicio_47\LosResultadosDeLafecha\bin\Debug\Ejercicio_47.pdb
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicio_47\LosResultadosDeLafecha\obj\Debug\LosResultadosDeLafecha.csprojAssemblyReference.cache
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicio_47\LosResultadosDeLafecha\obj\Debug\LosResultadosDeLafecha.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicio_47\LosResultadosDeLafecha\obj\Debug\LosResultadosDeLafecha.csproj.CopyComplete
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicio_47\LosResultadosDeLafecha\obj\Debug\LosResultadosDeLafecha.exe
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicio_47\LosResultadosDeLafecha\obj\Debug\LosResultadosDeLafecha.pdb

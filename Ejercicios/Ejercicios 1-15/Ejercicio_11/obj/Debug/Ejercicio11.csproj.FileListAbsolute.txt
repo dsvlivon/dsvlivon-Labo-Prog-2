@@ -1,0 +1,11 @@
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios1\Ejercicio11\bin\Debug\Ejercicio11.exe.config
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios1\Ejercicio11\bin\Debug\Ejercicio11.exe
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios1\Ejercicio11\bin\Debug\Ejercicio11.pdb
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios1\Ejercicio11\bin\Debug\Validacion.dll
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios1\Ejercicio11\bin\Debug\Validacion.pdb
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios1\Ejercicio11\bin\Debug\Validacion.dll.config
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios1\Ejercicio11\obj\Debug\Ejercicio11.csprojAssemblyReference.cache
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios1\Ejercicio11\obj\Debug\Ejercicio11.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios1\Ejercicio11\obj\Debug\Ejercicio11.csproj.CopyComplete
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios1\Ejercicio11\obj\Debug\Ejercicio11.exe
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios1\Ejercicio11\obj\Debug\Ejercicio11.pdb

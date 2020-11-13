@@ -1,0 +1,13 @@
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Practica Parcial\20181004 PP Lab II - Equipo\Vizgarra.Livon.2C\VistaForm\bin\Debug\VistaForm.exe.config
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Practica Parcial\20181004 PP Lab II - Equipo\Vizgarra.Livon.2C\VistaForm\bin\Debug\VistaForm.exe
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Practica Parcial\20181004 PP Lab II - Equipo\Vizgarra.Livon.2C\VistaForm\bin\Debug\VistaForm.pdb
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Practica Parcial\20181004 PP Lab II - Equipo\Vizgarra.Livon.2C\VistaForm\bin\Debug\Entidades.dll
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Practica Parcial\20181004 PP Lab II - Equipo\Vizgarra.Livon.2C\VistaForm\bin\Debug\Entidades.pdb
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Practica Parcial\20181004 PP Lab II - Equipo\Vizgarra.Livon.2C\VistaForm\obj\Debug\VistaForm.csprojAssemblyReference.cache
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Practica Parcial\20181004 PP Lab II - Equipo\Vizgarra.Livon.2C\VistaForm\obj\Debug\VistaForm.FormVista.resources
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Practica Parcial\20181004 PP Lab II - Equipo\Vizgarra.Livon.2C\VistaForm\obj\Debug\VistaForm.Properties.Resources.resources
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Practica Parcial\20181004 PP Lab II - Equipo\Vizgarra.Livon.2C\VistaForm\obj\Debug\VistaForm.csproj.GenerateResource.cache
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Practica Parcial\20181004 PP Lab II - Equipo\Vizgarra.Livon.2C\VistaForm\obj\Debug\VistaForm.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Practica Parcial\20181004 PP Lab II - Equipo\Vizgarra.Livon.2C\VistaForm\obj\Debug\VistaForm.csproj.CopyComplete
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Practica Parcial\20181004 PP Lab II - Equipo\Vizgarra.Livon.2C\VistaForm\obj\Debug\VistaForm.exe
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Practica Parcial\20181004 PP Lab II - Equipo\Vizgarra.Livon.2C\VistaForm\obj\Debug\VistaForm.pdb

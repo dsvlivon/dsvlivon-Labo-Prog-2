@@ -1,0 +1,7 @@
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\pruebaHilos\pruebaHilos\bin\Debug\pruebaHilos.exe.config
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\pruebaHilos\pruebaHilos\bin\Debug\pruebaHilos.exe
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\pruebaHilos\pruebaHilos\bin\Debug\pruebaHilos.pdb
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\pruebaHilos\pruebaHilos\obj\Debug\pruebaHilos.csprojAssemblyReference.cache
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\pruebaHilos\pruebaHilos\obj\Debug\pruebaHilos.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\pruebaHilos\pruebaHilos\obj\Debug\pruebaHilos.exe
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\pruebaHilos\pruebaHilos\obj\Debug\pruebaHilos.pdb

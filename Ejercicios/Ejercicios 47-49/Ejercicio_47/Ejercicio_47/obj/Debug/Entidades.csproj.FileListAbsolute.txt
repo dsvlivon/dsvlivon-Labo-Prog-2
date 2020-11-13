@@ -1,0 +1,6 @@
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicio_47\Ejercicio_47\bin\Debug\Ejercicio_47.dll
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicio_47\Ejercicio_47\bin\Debug\Ejercicio_47.pdb
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicio_47\Ejercicio_47\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicio_47\Ejercicio_47\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicio_47\Ejercicio_47\obj\Debug\Ejercicio_47.dll
+C:\Users\Daniel\Documents\DANY\UTN\Programacion-Laboratorio II\Ejercicios\Ejercicio_47\Ejercicio_47\obj\Debug\Ejercicio_47.pdb

@@ -1,0 +1,18 @@
+1- no llegue... ver video
+
+2- para que sirve serializar?
+	persistir la info
+	para comunicarse entre otras tecnologias, por ejemplo en web se usa json
+	para guardar en un almacenamiento de forma permanente y no perderlo la info
+3- xml escritura, lectura y publico
+txt y binario (ver video)
+
+4- en ambos debe tener un ctor public y sin parametros 
+y en binario se tiene q agregar el marcador de serializable
+(ver video)
+
+
+
+
+otro tema: BD
+
